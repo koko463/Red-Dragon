@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://telegra.ph/file/e523f48b0ac885a11d10d.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/t_20250418_232525_539.jpg" alt="nz" width="350"/>
 </p>
 
-## ☬𝑬𝑳𝑮𝑨𝒁𝑨𝑹༒𝑨𝑳𝑾𝑨𝒁𝑬𝑹-𝑩𝑶𝑻࿐   Version 4.6 
+## ☬0laytimeco.༒࿐ kokobot  Version 4.6 
   
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬𝑬𝑳𝑮𝑨𝒁𝑨𝑹༒𝑨𝑳𝑾𝑨𝒁𝑬𝑹࿐+𝑩𝑶𝑻.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹;𝐌𝐑:+☬𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
@@ -69,60 +69,3 @@ Version 4.6 (Deploy error fixed) 2022-06-20 latest
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
 </p>
-
-> 𝗛𝗼𝘄 𝗧𝗼 𝗠𝗮𝗸𝗲?
-
-> මුලින්ම qr code එක scan කරගන්න🥲 (multi devices beta වැඩ කරනෝ)
-
-> ඊට පස්සෙ මේ git එක fork කරගන්න. හරි. දැන් ඔයා fork කරගත්ත git එකට යන්න😌. 
-
-> දැන් වට්සැප් එකේ ඔයාගෙ ලොක් අංගයට session.json කියලා file එකක් ඇවිල්ලා ඇති. ඒක තියෙන්නෙ Whatsapp > media > whatsapp documents > session.json  මෙතන.
-
-> දැන් ඔයා අර fork කරපු git එකට ආයි ගිහින් ඒ session.json එක upload කරලා commit changes දෙන්න😁.
-
-> දැන් ආයි බැක් වෙලා Edit 'setting.js' With Your Choice ගිහින් ඒව මේව වෙනස් කරගන්න පුලුවං😒😒😒
-
-> යටට ගිහින් "Then Deploy The Bot From Here "👈මෙතනින් deploy කරන්න විතරයි තියෙන්නෙ😁
-
-
-## 𝑴𝑹: ☬𝑬𝑳𝑮𝑨𝒁𝑨𝑹༒𝑨𝑳𝑾𝑨𝒁𝑬𝑹࿐
-
-
-
-
-<b><details><summary>Available Features</summary><br>
-	
-| Features |  Availability |
-| :------: |  :----------: |
-|   Convert     |       ✅     |
-|   Database     |       ✅     |
-|   Owner     |       ✅    |
-|   Islami     |       ✅     |
-|   Downloader     |       ✅     |
-|   Webzone     |       ✅[      |
-|   Searching     |       ✅      |
-|   Textpro     |       ✅      |
-|   Ephoto     |       ✅     |
-|   Anime Web     |       ✅      |
-|   Stalker     |       ✅      |
-|   Random Text     |       ✅     |
-|   Random Image     |       ✅     |
-|   Nekos Life     |       ✅      |
-|   More Nsfw     |       ✅      |
-|   Creator     |       ✅      |
-
-</details>
-
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Alien-Alfa`](https://github.com/Alien-Alfa)
-* [`DGXeon`](https://github.com/DGXeon)
-* [`AflahXrd`](https://github.com/nexusNw)
-	
-	
-<div align="center">
-	
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-</div>
